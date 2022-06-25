@@ -1,2 +1,2 @@
-# WebCalculator-HTML-CSS
-WEB-Calculator dasar menggunakan HTML &amp; DASAR
+# WebCalculator-HTML & CSS
+WEB-Calculator dasar menggunakan HTML & CSS
